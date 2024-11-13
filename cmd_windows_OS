@@ -1,0 +1,3 @@
+wmic memorychip list full
+systeminfo
+wmic memorychip get banklabel, devicelocator, manufacturer, partnumber, speed, capacity
