@@ -1,11 +1,10 @@
 # Basic Windows CMD Commands
 
-Power consumption report from windows
-$ powercfg -energy
-extraction of report in html
-$ energy-report.html
-
-Power curve
+- Power consumption report from windows
+- $ powercfg -energy
+- extraction of report in html
+- $ energy-report.html
+- Power curve
 
 
 
