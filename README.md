@@ -1,5 +1,13 @@
 # Basic Windows CMD Commands
 
+Power consumption report from windows
+$ powercfg -energy
+extraction of report in html
+$ energy-report.html
+
+
+
+
 ## 1. Navigation Commands
 - `cd [directory]`
   - Change the current directory to the specified directory.
