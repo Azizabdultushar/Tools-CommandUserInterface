@@ -5,6 +5,8 @@ $ powercfg -energy
 extraction of report in html
 $ energy-report.html
 
+Power curve
+
 
 
 
