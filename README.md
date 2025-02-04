@@ -133,3 +133,12 @@
 ---
 ### Note:
 - Some commands may require **Administrator Privileges**. Right-click on the Command Prompt icon and choose **Run as Administrator**.
+
+
+# BASIC of linux terminal
+
+## installation of google chrome
+- $ sudo dpkg -i ./google_chrome.deb
+
+
+
